@@ -1,13 +1,15 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Huy 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a strong focus on creating efficient and scalable solutions. Currently, I am also the admin at [progcoder.com](https://progcoder.com), where I contribute to the community and share knowledge with fellow developers.
+Welcome to my GitHub profile! 
+
+I'm a passionate Full-Stack Developer with a strong focus on creating efficient and scalable solutions. Currently, I am also the admin at [progcoder.com](https://progcoder.com), where I contribute to the community and share knowledge with fellow developers.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various exciting projects, both personal and professional.
 - 🌱 I’m continuously learning and exploring new technologies and frameworks.
 - 👯 I’m looking to collaborate on projects that challenge me and provide opportunities for growth.
-- 💬 Ask me about full stack development, JavaScript, .NET, or anything related to coding!
+- 💬 Ask me about full-stack development, JavaScript, .NET, or anything related to coding!
 - 📫 How to reach me: [huynx11.dev@gmail.com] | [LinkedIn](https://www.linkedin.com/in/huy-nguyen-274688221) | [Facebook](https://www.facebook.com/huynx11.dev)
 
 ## 🛠️ Technologies & Tools
