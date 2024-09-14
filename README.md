@@ -36,9 +36,10 @@ I also write about development and technology on [progcoder.com](https://progcod
 
 ## 💻 GitHub Stats
 
-![huynxtb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=huynxtb&theme=dracula&hide_border=false)
-
-![huynxtb's Stats](https://github-readme-stats.vercel.app/api?username=huynxtb&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynxtb&theme=dracula&hide_border=false" alt="huynxtb's Streak" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huynxtb&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="huynxtb's Stats" />
+</div>
 
 ## 🤝 Connect with Me
 
