@@ -24,7 +24,7 @@ I'm a passionate Full-Stack Developer with a strong focus on creating efficient 
 
 Here are some of the projects I’ve been working on recently:
 
-- [PG Shop Microservices](https://via.placeholder.com/300x200?text=Coming+Soon): This project is under development. It will be public soon.
+- [PG Shop Microservices](https://via.placeholder.com/700x500?text=Coming+Soon): This project is under development. It will be public soon.
 - [Telegram Notifier](https://github.com/huynxtb/jenkins-telegram-notifier-plugin): This is a plugin for jenkins to send notification to Telegram.
 
 Feel free to explore my repositories to see more of my work!
