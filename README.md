@@ -1,4 +1,4 @@
-# Hello, I'm Huy 👋
+# Hello friend! 👋
 
 Welcome to my GitHub profile! 
 
