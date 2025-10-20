@@ -43,9 +43,16 @@ I also write about development and technology on [progcoder.com](https://progcod
   <img src="https://github-readme-stats.vercel.app/api?username=huynxtb&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="huynxtb's Stats" />
 </div>
 
+## 🤖 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/HuyNX?theme=unicorn&font=Hind%20Madurai&ext=heatmap" alt="huynxtb's Stats" />
+</div>
+
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harrynguyenpg)
 - [Facebook](https://www.facebook.com/huynx11.dev)
 
 Thank you for visiting my GitHub profile! 🚀
+
