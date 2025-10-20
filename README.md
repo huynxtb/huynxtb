@@ -46,7 +46,7 @@ I also write about development and technology on [progcoder.com](https://progcod
 ## 🤖 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/HuyNX?theme=unicorn&font=Hind%20Madurai&ext=heatmap" alt="huynxtb's Stats" />
+  <img src="https://leetcard.jacoblin.cool/HuyNX?theme=unicorn&font=Hind%20Madurai&ext=activity" alt="huynxtb's Stats" />
 </div>
 
 ## 🤝 Connect with Me
@@ -55,4 +55,5 @@ I also write about development and technology on [progcoder.com](https://progcod
 - [Facebook](https://www.facebook.com/huynx11.dev)
 
 Thank you for visiting my GitHub profile! 🚀
+
 
