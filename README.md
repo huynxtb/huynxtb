@@ -30,7 +30,7 @@ I'm a passionate Full-Stack Developer with a strong focus on creating efficient 
 ## 🤖 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/HuyNX?theme=unicorn&font=Hind%20Madurai&ext=heatmap" alt="huynxtb's Stats" />
+  <img src="https://leetcard.jacoblin.cool/HuyNX?theme=unicorn&font=Hind%20Madurai" alt="huynxtb's Stats" />
 </div>
 
 ## 🤝 Connect with Me
@@ -39,6 +39,7 @@ I'm a passionate Full-Stack Developer with a strong focus on creating efficient 
 - [Facebook](https://www.facebook.com/huynx11.dev)
 
 Thank you for visiting my GitHub profile! 🚀
+
 
 
 
