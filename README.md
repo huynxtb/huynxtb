@@ -24,7 +24,7 @@ I'm a passionate Full-Stack Developer with a strong focus on creating efficient 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynxtb&theme=dracula&hide_border=false" alt="huynxtb's Streak" style="margin-right: 10px;" />
-  <img src="github-readme-stats-f0gqrj6mc-huy-nguyens-projects-f9d8ec78.vercel.app/api?username=huynxtb&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="huynxtb's Stats" />
+  <img src="https://github-readme-stats-f0gqrj6mc-huy-nguyens-projects-f9d8ec78.vercel.app/api?username=huynxtb&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="huynxtb's Stats" />
 </div>
 
 ## 🤖 LeetCode Stats
