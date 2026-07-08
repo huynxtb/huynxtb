@@ -6,7 +6,7 @@ I'm a passionate Full-Stack Developer with a strong focus on building scalable, 
 
 ## 🚀 About Me
 
-- 🚀 Founder of CV Quill (https://cvquill.com), an AI-powered platform that helps job seekers improve their resumes and enables recruiters to screen candidates more efficiently.
+- 🚀 Founder of [CV Quill](https://cvquill.com), an AI-powered platform that helps job seekers improve their resumes and enables recruiters to screen candidates more efficiently.
 - 👯 I’m looking to collaborate on projects that challenge me and provide opportunities for growth.
 - 💬 Ask me about full-stack development, JavaScript, .NET, or anything related to coding!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/huynx11) | [Facebook](https://www.facebook.com/huynx11.dev)
