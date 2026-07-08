@@ -2,20 +2,19 @@
 
 Welcome to my GitHub profile! 
 
-I'm a passionate Full-Stack Developer with a strong focus on creating efficient and scalable solutions. Currently, I am also the admin at [progcoder.com](https://progcoder.com), where I contribute to the community and share knowledge with fellow developers.
+I'm a passionate Full-Stack Developer with a strong focus on building scalable, high-performance applications. I'm also the founder of [CV Quill](https://www.cvquill.com), an AI-powered recruitment platform, and the admin of [ProG Coder](https://www.progcoder.com), where I share knowledge and contribute to the developer community.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various exciting projects, both personal and professional.
-- 🌱 I’m continuously learning and exploring new technologies and frameworks.
+- 🚀 Founder of CV Quill (https://cvquill.com), an AI-powered platform that helps job seekers improve their resumes and enables recruiters to screen candidates more efficiently.
 - 👯 I’m looking to collaborate on projects that challenge me and provide opportunities for growth.
 - 💬 Ask me about full-stack development, JavaScript, .NET, or anything related to coding!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/huynx11) | [Facebook](https://www.facebook.com/huynx11.dev)
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, C#, Java, TypeScript, Python
-- **Frameworks:** React, Vue, Node.js, .NET Framework/Core, ASP.NET, Spring Boot
+- **Languages:** JavaScript, C#, Java, TypeScript, Python, Go
+- **Frameworks:** React, Vue, Node.js, .NET Framework/Core, ASP.NET, Spring Boot, Gin
 - **Databases:** SQL Server, MySQL, CosmosDB, MongoDB, PostgreSQL
 - **Tools & Technologies:** Git, Docker, Redis, Elasticsearch, RabbitMQ, Azure Bus, Prometheus, Grafana, Jenkins, N8N, etc.
 - **Cloud Platforms:** AWS, Azure
